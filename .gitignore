@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# custom additions
+/.env  # Ignore your actual .env file with sensitive information
